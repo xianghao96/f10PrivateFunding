@@ -1,6 +1,7 @@
 var keystone = require('keystone');
+var Types = keystone.Field.Types;
 
-var User = new keystone.List('User');
+var User = new keystone.List('User'); // this creates a user list
 
 User.add({
     displayName: { type: String },
