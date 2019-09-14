@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "f10 Hackathon Private Funding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianghao96/f10PrivateFunding.git"
+  },
+  "author": "xianghao96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianghao96/f10PrivateFunding/issues"
+  },
+  "homepage": "https://github.com/xianghao96/f10PrivateFunding#readme",
+  "dependencies": {
+    "keystone": "^4.2.1"
+  }
+}
